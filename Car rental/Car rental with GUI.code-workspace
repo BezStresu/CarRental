@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../crku/CarRental"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"xstring": "cpp",
+			"iostream": "cpp",
+			"map": "cpp",
+			"utility": "cpp",
+			"ostream": "cpp",
+			"vector": "cpp",
+			"iosfwd": "cpp",
+			"string": "cpp",
+			"fstream": "cpp",
+			"memory": "cpp",
+			"cstdlib": "cpp"
+		}
+	}
+}
